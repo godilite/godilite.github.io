@@ -1,0 +1,26 @@
+
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "CSBLHL2V5Y.app.ourhaven.sikkaReward"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "CSBLHL2V5Y.app.ourhaven.sikkaReward"
+    ]
+  }
+}
