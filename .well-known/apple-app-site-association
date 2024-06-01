@@ -5,7 +5,7 @@
     "details": [
       {
         "appIDs": [
-          "CSBLHL2V5Y.app.ourhaven.sikkaReward"
+          "DXM2JH84QUG.app.ourhaven.sikka"
         ],
         "paths": [
           "*"
@@ -20,7 +20,7 @@
   },
   "webcredentials": {
     "apps": [
-      "CSBLHL2V5Y.app.ourhaven.sikkaReward"
+      "DXM2JH84QUG.app.ourhaven.sikka"
     ]
   }
 }
